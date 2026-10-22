@@ -1,0 +1,12 @@
+screen,element,domain,risk,control
+Home,Alerta global de emergência,global,Crítica,CTA sempre disponível
+Identificação,Data de nascimento,age,Alta,Idade derivada internamente
+Seleção,FEB,pathway,Média,Fluxo específico
+Seleção,RESP,pathway,Alta,Apneia/cianose/desconforto priorizados
+Seleção,GI,pathway,Alta,Consciência/perfusão priorizadas
+Seleção,TCE,pathway,Alta,Ausência de sintomas não equivale a alta
+Seleção,SEIZ,pathway,Alta,Status/cluster encerram fluxo
+Seleção,ANA,pathway,Alta,Exige contexto alérgico + A/B/C
+Questionário,Não sei / não consegui avaliar,epistemic,Alta,INDETERMINATE; nunca FALSE
+Resultado,ESCALATE,action,Crítica,Interrompe fluxo
+Resultado,HOME_MANAGEMENT_ANCHORED,green-authority,Crítica,Nunca autônomo

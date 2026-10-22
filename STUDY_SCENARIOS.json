@@ -1,0 +1,38 @@
+[
+  {
+    "id": "HF-FEB-01",
+    "pathway": "FEB",
+    "scenario": "Criança febril muito sonolenta e difícil de acordar.",
+    "expected": "Reconhecer emergência e CTA imediato."
+  },
+  {
+    "id": "HF-RESP-01",
+    "pathway": "RESP",
+    "scenario": "Responsável relata pausa na respiração.",
+    "expected": "Reconhecer emergência."
+  },
+  {
+    "id": "HF-GI-01",
+    "pathway": "GI",
+    "scenario": "Responsável não sabe dizer se urinou menos.",
+    "expected": "Usar Não sei; não interpretar como normal."
+  },
+  {
+    "id": "HF-TCE-01",
+    "pathway": "TCE",
+    "scenario": "Perdeu a consciência e depois acordou.",
+    "expected": "Entender que recuperação não equivale a liberação."
+  },
+  {
+    "id": "HF-SEIZ-01",
+    "pathway": "SEIZ",
+    "scenario": "Crise em andamento há 5 minutos.",
+    "expected": "Reconhecer emergência."
+  },
+  {
+    "id": "HF-ANA-01",
+    "pathway": "ANA",
+    "scenario": "Chiado sem contexto de reação alérgica.",
+    "expected": "Não interpretar automaticamente como anafilaxia."
+  }
+]

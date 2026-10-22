@@ -1,0 +1,23 @@
+{
+  "artifact": "PueriFamilia UI Candidate v1",
+  "copy_version": "COPY-PTBR-0.1",
+  "status": "FORMATIVE_HUMAN_FACTORS_READY",
+  "technical_gates": {
+    "javascript_syntax": "PASS",
+    "json_integrity": "PASS",
+    "manifest_integrity": "PASS",
+    "zip_integrity": "PASS"
+  },
+  "external_evidence_required": [
+    "real_parent_caregiver_sessions",
+    "observed_use_errors_and_close_calls",
+    "participant_comprehension_data",
+    "design_iteration_decisions"
+  ],
+  "claims_prohibited": [
+    "HUMAN_FACTORS_VALIDATED",
+    "CLINICALLY_VALIDATED",
+    "PRODUCTION_READY",
+    "WCAG_CONFORMANT"
+  ]
+}

@@ -1,0 +1,1 @@
+issue_id,session_id,scenario_id,screen,event_type,description,potential_harm,severity_rationale,root_cause_hypothesis,proposed_change,affected_copy_or_ui_version,retest_status,decision

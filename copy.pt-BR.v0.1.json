@@ -1,0 +1,56 @@
+{
+  "version": "COPY-PTBR-0.1",
+  "status": "DRAFT_NOT_HUMAN_FACTORS_VALIDATED",
+  "locale": "pt-BR",
+  "brand": {
+    "product": "PueriFamília 2.0",
+    "primary": "#285A81",
+    "light": "#B9E0E5",
+    "background": "#F7FAFC",
+    "text": "#0F172A"
+  },
+  "global": {
+    "intro_title": "Orientação pediátrica inicial",
+    "intro_text": "Responda às perguntas para receber uma orientação inicial baseada nas informações informadas.",
+    "emergency_banner": "Se a criança estiver inconsciente, muito sonolenta, com dificuldade importante para respirar, convulsionando ou parecer gravemente doente, procure atendimento de emergência imediatamente.",
+    "start": "Iniciar avaliação",
+    "emergency": "Emergência",
+    "back": "Voltar",
+    "continue": "Continuar"
+  },
+  "results": {
+    "ESCALATE": {
+      "title": "Procure atendimento de emergência agora",
+      "body": "As respostas indicam sinais que precisam de atendimento imediato.",
+      "cta": "Ir para emergência agora"
+    },
+    "ASSESSMENT_REQUIRED": {
+      "title": "A criança precisa de avaliação médica",
+      "body": "As respostas indicam necessidade de avaliação por um profissional de saúde.",
+      "cta": "Procurar avaliação médica"
+    },
+    "ASSESSMENT_RECOMMENDED": {
+      "title": "Procure avaliação médica",
+      "body": "As respostas indicam que uma avaliação médica é recomendada.",
+      "cta": "Ver orientação"
+    },
+    "HOME_MANAGEMENT_ANCHORED": {
+      "title": "Siga o plano profissional já orientado",
+      "body": "As informações são compatíveis com um plano profissional já validado para esta situação. Siga as orientações recebidas e procure ajuda se houver piora.",
+      "cta": "Ver plano"
+    },
+    "INDETERMINATE": {
+      "title": "Não há informações suficientes",
+      "body": "Algumas respostas não permitem concluir a orientação com segurança. É necessário obter mais informações ou procurar avaliação profissional.",
+      "cta": "Revisar respostas"
+    }
+  },
+  "pathways": {
+    "FEB": "Febre",
+    "RESP": "Falta de ar, chiado ou bronquiolite",
+    "GI": "Vômitos, diarreia ou sinais de desidratação",
+    "TCE": "Trauma na cabeça",
+    "SEIZ": "Convulsão ou crise",
+    "ANA": "Reação alérgica grave"
+  }
+}
